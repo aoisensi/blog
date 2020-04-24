@@ -2,6 +2,7 @@
 title: New blog again???
 date: "2020-04-24T14:50:00.000+0900"
 tags: ["blah"]
+description: また新しいブログ???
 disqus: true
 ---
 
