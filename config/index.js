@@ -8,7 +8,7 @@ const site = {
   github: 'aoisensi',
   medium: '',
   facebook: '',
-  disqusShortName: 'aoisensi',
+  disqusShortName: 'aoisensi-blog',
   googleTrackingId: '',
   lang: 'ja',
   displayTranslations: true,
