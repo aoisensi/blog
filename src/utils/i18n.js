@@ -8,8 +8,6 @@ const formatMessage = (msgId, ...args) => {
   const msg = messages[msgId];
 
   if (msg == null) {
-    console.error(`MessageId [${msgId}] is not exist!!
-    You should add it to config/locales/${lang}.js`);
     return msgId;
   }
 
