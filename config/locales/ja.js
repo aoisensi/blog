@@ -1,6 +1,6 @@
 module.exports = {
   tHome: 'ホーム',
-  tRelativePosts: '相対投稿',
+  tRelativePosts: '前の投稿',
   tFollowTwitterDescription: '私のTwitterをフォローしてみては?',
   tTags: 'タグ',
   tIndTitle: 'すべての投稿',
